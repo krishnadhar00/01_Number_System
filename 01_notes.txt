@@ -1,0 +1,5 @@
+1. Number system used to represent the number using different base value like binary, decimal, hexadecimal.
+2. Base value of decimal number system is 10.
+3. Base value of the octal number system is 8.
+4. Base value of the hexadecimal number system is 16.
+5. Base value of binary number system is 2.
